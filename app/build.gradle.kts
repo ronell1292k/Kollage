@@ -79,4 +79,7 @@ dependencies {
 
     // Coil -> use over glide/picasso
     implementation("io.coil-kt:coil-compose:2.3.0")
+
+    // Lifecycle + ViewModel
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
 }
